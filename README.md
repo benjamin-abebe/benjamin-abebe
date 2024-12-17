@@ -1,7 +1,7 @@
 <html>
  <body>
-  
 <h1>Hi there 👋</h1>
+<div class="tenor-gif-embed" data-postid="24034177" data-share-method="host" data-aspect-ratio="0.909375" data-width="100%"><a href="https://tenor.com/view/thug-life-i-didnt-choose-the-thug-life-chose-me-gangsta-bad-boy-gif-24034177">Thug Life I Didnt Choose GIF</a>from <a href="https://tenor.com/search/thug+life-gifs">Thug Life GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ________________________________________________________
 <h2>About me</h2> 
@@ -17,11 +17,12 @@ ________________________________________________________________________________
  <p>Linux🐧</p>
 <p>Chrome os</p>
 __________________________________________________________________________________________________
- Programming language </>
- html
- css
- python 
- Java script
- Typescript
+ <p>Programming language </p>
+ <p>html</p>
+ <p>css</p>
+ <p>python</p> 
+ <p>Java script</p>
+ Typescript</p>
+__________________________________________________________________________________________________
  </body>
 </html>
