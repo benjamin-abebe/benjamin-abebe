@@ -1,15 +1,17 @@
-## Hi there 👋
+<html>
+ <body>
+  
+<h1>Hi there 👋</h1>
 
 ________________________________________________________
-## About me 
- My name is Benjamin Abebe and I'm currently going to St. Mother Teresa High School, Ottawa, Canada. I have 3 years experience of coding and I can 5 programming languages. Through these 3 years, I have claimed quite a few certificates for my accomplishments for 300+ hours of coding course. I do math to improve my problem solving skills and critical thinking skills. I do martial arts like taekwondo to make my self active both physically and metnallu. I also play soccer If I have a free time. 
+<h2>About me</h2> 
+ <p>My name is Benjamin Abebe and I'm currently going to St. Mother Teresa High School, Ottawa, Canada. I have 3 years experience of coding and I can 5 programming languages. Through these 3 years, I have claimed quite a few certificates for my accomplishments for 300+ hours of coding course. I do math to improve my problem solving skills and critical thinking skills. I do martial arts like taekwondo to make my self active both physically and metnallu. I also play soccer If I have a free time.</p>
 
 __________________________________________________________________________________________________
-## 🕸️ My Website
-__________________________________________________________________________________________________
-## Link:- https://goldghost231.github.io/My-website/
+<h3> 🕸️ My Website </h3>
+<p><a href="https://goldghost231.github.io/My-website/">Click Here</a></p>
 
-⚠︎ Don't sign up or Log in because the website doesn't have a database! ⚠︎
+<p>⚠︎ Don't sign up or Log in because the website doesn't have a database! ⚠︎ </p>
 __________________________________________________________________________________________________
  Operating Systems 💻
  Linux🐧
@@ -21,3 +23,5 @@ ________________________________________________________________________________
  python 
  Java script
  Typescript
+ </body>
+</html>
