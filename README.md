@@ -13,15 +13,6 @@ ________________________________________________________________________________
 
 <p>⚠︎ Don't sign up or Log in because the website doesn't have a database! ⚠︎ </p>
 __________________________________________________________________________________________________
- Operating Systems 💻
- Linux🐧
-Chrome os
-__________________________________________________________________________________________________
- Programming language </>
- html
- css
- python 
- Java script
- Typescript
- </body>
-</html>
+ <p>Operating Systems 💻</p>
+ <p>Linux🐧</p>
+<p>Chrome os</p>
