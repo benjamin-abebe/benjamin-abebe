@@ -14,6 +14,9 @@ ________________________________________________________________________________
 
 <p>⚠︎ Don't sign up or Log in because the website doesn't have a database! ⚠︎ </p>
 __________________________________________________________________________________________________
+<h4>Certificate</h4>
+<p><a href="https://www.freecodecamp.org/certification/Benjaminbirihanu/responsive-web-design">My certificate for freecodecamp responsive Web design</a></p>
+__________________________________________________________________________________________________
  <p>Operating Systems 💻</p>
  <p>Linux🐧</p>
 <p>Chrome os</p>
