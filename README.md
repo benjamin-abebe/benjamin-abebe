@@ -2,10 +2,10 @@
  <body>
 <h1>Hi there 👋</h1>
 
+![200](https://github.com/user-attachments/assets/651b2325-7f46-4bf3-8797-011f15a7cfa5)
 
 ________________________________________________________
 <h2>About me</h2> 
-![200](https://github.com/user-attachments/assets/70b67b6b-843b-42fa-9306-c5de7cc202cd)
 
  <p>My name is Benjamin Abebe and I'm currently going to St. Mother Teresa High School, Ottawa, Canada. I have 3 years experience of coding and I can 5 programming languages. Through these 3 years, I have claimed quite a few certificates for my accomplishments for 300+ hours of coding course. I do math to improve my problem solving skills and critical thinking skills. I do martial arts like taekwondo to make my self active both physically and metnallu. I also play soccer If I have a free time.</p>
 
