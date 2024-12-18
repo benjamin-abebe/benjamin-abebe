@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <p><a href="https://www.freecodecamp.org/certification/Benjaminbirihanu/responsive-web-design">My certificate for freecodecamp responsive Web design</a></p>
 __________________________________________________________________________________________________
  <p>Operating Systems 💻</p>
- <p>Linux🐧</p>
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <p>Chrome os</p>
 __________________________________________________________________________________________________
  <p>Programming language </p>
