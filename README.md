@@ -1,6 +1,6 @@
 <html>
  <body>
-<h1>Hi there 👋</h1>
+<h1>Hello there👋</h1>
 
 ![200](https://github.com/user-attachments/assets/651b2325-7f46-4bf3-8797-011f15a7cfa5)
 
@@ -23,6 +23,7 @@ ________________________________________________________________________________
  <p>html</p>
  <p>css</p>
  <p>python</p> 
+ <img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_%2528programming_language%2529&psig=AOvVaw0kydNAF_0-SWR-Tu3VrCFw&ust=1734622787560000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIis18nTsYoDFQAAAAAdAAAAABAE">
  <p>Java script</p>
  Typescript</p>
 __________________________________________________________________________________________________
